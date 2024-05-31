@@ -1,0 +1,8 @@
+ipython==7.34.0
+matplotlib==3.7.1
+numpy==1.22.4
+scikit_learn==1.2.2
+torch==2.0.1+cu118
+unrar==6.11
+optuna=3.4
+seaborn=0.13.0
